@@ -4,7 +4,7 @@ Tags: post, update post, contents, edit, edit contents, front edit, simple, post
 Donate link: http://webcodingplace.com/contact-us/
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
